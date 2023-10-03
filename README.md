@@ -42,10 +42,10 @@ This is the **list** of commands you can find in the plugin
 
 1. **Restore Command** (instatly restore your hearts and hunger) --> /restoreplayer or /restore or /restplr
 
-## Authors
-
-- [@groggo](https://github.com/GettingTren)
-
 ## Help
 
 **If you need help, message me on discord, link in the main page of my account ;)**
+
+## Authors
+
+- [@groggo](https://github.com/GettingTren)
