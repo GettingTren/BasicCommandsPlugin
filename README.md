@@ -44,7 +44,7 @@ This is the **list** of commands you can find in the plugin
 
 ## Help
 
-**If you need help, message me on discord, link in the main page of my account ;)**
+**If you need help, message me on discord, link in the main page of [my account](https://github.com/GettingTren) ;)**
 
 ## Authors
 
