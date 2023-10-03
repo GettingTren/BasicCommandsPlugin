@@ -1,0 +1,30 @@
+name: LearnCommandsPlugin
+version: '${project.version}'
+main: me.ilgroggo.learncommandsplugin.LearnCommandsPlugin
+api-version: '1.20'
+commands:
+
+  god:
+    description: Become invincible.
+    usage: /<command>
+    aliases:
+      - g
+
+  fly:
+    description: You get the ability to fly!
+    usage: /<command>
+
+  hunger:
+    description: Instantly restore your hunger.
+    usage: /<command>
+
+  health:
+    description: Instantly restore your hearts.
+    usage: /<command>
+
+  restoreplayer:
+    description: Instatly restore your hearts and hunger.
+    usage: /<command>
+    aliases:
+      - restore
+      - restplr
