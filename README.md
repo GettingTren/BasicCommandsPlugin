@@ -1,7 +1,5 @@
 # *BasicCommandsPlugin*
 
-## Descrtiption
-
 This is a simple plugin for **Minecraft 1.20.1** that implements **custom commands**. This resource is useful if someone want to **learn how a custom command is created and how it works**.
 
 ## Requirements
